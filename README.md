@@ -1,5 +1,3 @@
----
-
 ## 1. Core Primitives of Agentic Architecture
 
 Production-grade Agentic AI relies on a **Coordinated Enterprise Stack** rather than simple linear loops. The four foundational architectural components are:
