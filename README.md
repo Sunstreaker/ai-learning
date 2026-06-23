@@ -1,5 +1,3 @@
-Here is a structured summary of the engineering architecture, business patterns, and resources we have discussed, formatted for quick reference and note-taking.
-
 ---
 
 ## 1. Core Primitives of Agentic Architecture
